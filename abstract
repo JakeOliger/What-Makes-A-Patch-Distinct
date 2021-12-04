@@ -1,0 +1,1 @@
+This project is an attempt to implement the algorithms described in the paper “What Makes a Patch Distinct?” by Ran Margolin, Ayellet Tal, and Lihi Zelnik-Manor. The goal is to take a given image and identify which parts of the image are distinct, i.e. different, important, or useful depending on a further task. Primary advantages of this approach are its speed and accuracy.
